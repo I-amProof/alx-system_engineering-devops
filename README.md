@@ -1,1 +1,1 @@
-This directory is defined as commanded
+Shell Scripting
